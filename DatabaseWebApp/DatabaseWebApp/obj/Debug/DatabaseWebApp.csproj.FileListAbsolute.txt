@@ -1,0 +1,12 @@
+E:\SEIP-34-SONY\4.1.17\DatabaseWebApp\DatabaseWebApp\bin\DatabaseWebApp.dll.config
+E:\SEIP-34-SONY\4.1.17\DatabaseWebApp\DatabaseWebApp\bin\DatabaseWebApp.dll
+E:\SEIP-34-SONY\4.1.17\DatabaseWebApp\DatabaseWebApp\bin\DatabaseWebApp.pdb
+E:\SEIP-34-SONY\4.1.17\DatabaseWebApp\DatabaseWebApp\obj\Debug\DatabaseWebApp.csprojResolveAssemblyReference.cache
+E:\SEIP-34-SONY\4.1.17\DatabaseWebApp\DatabaseWebApp\obj\Debug\DatabaseWebApp.dll
+E:\SEIP-34-SONY\4.1.17\DatabaseWebApp\DatabaseWebApp\obj\Debug\DatabaseWebApp.pdb
+F:\BITM\BITM practice\4.1.17\DatabaseWebApp\DatabaseWebApp\bin\DatabaseWebApp.dll.config
+F:\BITM\BITM practice\4.1.17\DatabaseWebApp\DatabaseWebApp\bin\DatabaseWebApp.dll
+F:\BITM\BITM practice\4.1.17\DatabaseWebApp\DatabaseWebApp\bin\DatabaseWebApp.pdb
+F:\BITM\BITM practice\4.1.17\DatabaseWebApp\DatabaseWebApp\obj\Debug\DatabaseWebApp.csprojResolveAssemblyReference.cache
+F:\BITM\BITM practice\4.1.17\DatabaseWebApp\DatabaseWebApp\obj\Debug\DatabaseWebApp.dll
+F:\BITM\BITM practice\4.1.17\DatabaseWebApp\DatabaseWebApp\obj\Debug\DatabaseWebApp.pdb
